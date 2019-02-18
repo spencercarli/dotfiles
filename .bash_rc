@@ -16,3 +16,4 @@ alias gis="git status"
 alias gia="git add"
 alias rm=trash
 alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias teach='code --user-data-dir ~/code_profiles/screencasting/data'
