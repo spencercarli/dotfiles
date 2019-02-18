@@ -1,7 +1,0 @@
-[Info  - 4:52:45 PM] Linter is running.
-[Warn  - 4:52:46 PM] 
-Failed to load the TSLint library for the document /Users/spencer/dev/clients/my-better-journey/tricorder/App/index.js
-
-To use TSLint in this workspace please install tslint using 'npm install tslint' or globally using 'npm install -g tslint'.
-TSLint has a peer dependency on `typescript`, make sure that `typescript` is installed as well.
-You need to reopen the workspace after installing tslint.
