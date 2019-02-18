@@ -28,11 +28,11 @@
   "zenMode.centerLayout": false,
   "zenMode.hideTabs": false,
   "zenMode.fullScreen": false,
-  // Screencasting
 
+  // Screencasting
   "window.zoomLevel": 1.1,
-  "editor.glyphMargin": false,
+  "editor.glyphMargin": false
   // "workbench.editor.showTabs": false,
   // "workbench.statusBar.visible": false
-  "workbench.activityBar.visible": false
+  // "workbench.activityBar.visible": false
 }
