@@ -1,0 +1,19 @@
+export a="bashrc"
+
+export ANDROID_HOME=~/Library/Android/sdk
+export PATH=${PATH}:${ANDROID_HOME}/tools
+export PATH=${PATH}:${ANDROID_HOME}/platform-tools
+
+export PATH="$PATH:`yarn global bin`"
+
+alias shake="adb shell input keyevent 82"
+alias gil="git log"
+alias gic="git commit -m"
+alias gico="git checkout"
+alias gip="git pull"
+alias gipu="git push"
+alias gis="git status"
+alias gia="git add"
+alias rm=trash
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias teach='code --user-data-dir ~/code_profiles/screencasting/data'
