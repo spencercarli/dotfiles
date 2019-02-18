@@ -1,0 +1,15 @@
+.DS_Store
+**/data/Backups
+**/data/Cache
+**/data/CachedData
+**/data/GPUCache
+**/data/Local Storage
+**/data/Cookies
+**/data/Cookies-Journal
+**/data/machineid
+**/data/Preferences
+**/data/storage.json
+**/data/*.sock
+**/data/logs
+**/data/User/workspaceStorage
+**/data/User/workspaceStorage
